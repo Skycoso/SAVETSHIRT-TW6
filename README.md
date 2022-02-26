@@ -1,5 +1,5 @@
 # SAVETSHIRT
-This Repository is from a project for the Course "Tecnologie Web" from Universitá Parthenope, Naples
+This Repository is from a project for the Course "Tecnologie Web" from Universitá Parthenope, Naples.
 
 # Index
 
